@@ -19,7 +19,12 @@ Use this application to select pizza toppings and get a final cost for your pizz
 
 ## Screenshots
 
+![Pizza Maker Preview](https://raw.githubusercontent.com/gseals/pizza-maker/master/screenshots/mainview.png)
 
+* throw an exclamation point in front of this (without the exclamation point, the line is just a link)
+* square brackets house alt text (if the link breaks, this is what appears)
+* parentheses is the image location on github (on github, open the folder, open the image, select download; always starts with raw something
+* do yourself a favor, create your screenshots folder and place all images in that you will be interacting with. then, come back down and place them where you would like them to go
 
 ## How to run
 
